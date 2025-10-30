@@ -10,7 +10,7 @@ module.exports = (() => {
     const config = {
         info: {
             name: "Automated Like All Reactions",
-            authors: [{ name: "B0NX", discord_id: "", github_username: "B0NX" }],
+            authors: [{ name: "B0NX", discord_id: "", github_username: "IX-B0NX" }],
             version: "2.3.0",
             description: "Automatically adds all other reactions to a message after you click one. Can continuously like previous posts."
         },
