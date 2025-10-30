@@ -28,13 +28,11 @@ This plugin requires the `ZeresPluginLibrary` to function.
 * You can also download it manually from [its GitHub repository](https://github.com/rauenzi/BDPluginLibrary).
 
 ### 2. Plugin Installation
-
-1.  Go to the **[Releases](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/releases)** page of this repository. (Note: You'll need to update this link!)
-2.  Download the `AutomatedLikeAllReactions.plugin.js` file from the latest release.
-3.  In Discord, go to `User Settings` > `Plugins` (under the "BetterDiscord" section).
-4.  Click the `Open Plugins Folder` button.
-5.  Drag the downloaded `.plugin.js` file into that folder.
-6.  Go back to Discord and enable the "Automated Like All Reactions" plugin in your plugins list.
+1.  Download the `AutomatedLikeAllReactions.plugin.js` file from the latest release.
+2.  In Discord, go to `User Settings` > `Plugins` (under the "BetterDiscord" section).
+3.  Click the `Open Plugins Folder` button.
+4.  Drag the downloaded `.plugin.js` file into that folder.
+5.  Go back to Discord and enable the "Automated Like All Reactions" plugin in your plugins list.
 
 ## Recent Changelog
 
